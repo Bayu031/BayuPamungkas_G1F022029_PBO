@@ -155,7 +155,7 @@ Table 1. Penjelasan Tiap Section Code Dari No 1
 
 </div>
 
-## 2. _ Buatlah program bebas, dengan menerapkan if else pada :_
+## 2. _Buatlah program bebas, dengan menerapkan if else pada :_
 ### a. _For Loops_
 For loops dalam Python digunakan untuk mengulangi (iterasi) suatu blok kode sejumlah tertentu kali atau melalui setiap elemen dalam suatu urutan (seperti daftar, tupel, atau string). Ini memungkinkan kita menjalankan serangkaian pernyataan untuk setiap elemen atau iterasi yang ada.
 
@@ -217,7 +217,7 @@ Table 3. Penjelasan Tiap Section Code While Loops
 
 </div>
 
-## 3. _ Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for _
+## 3. _Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for_
 
 <div align="center">
 
