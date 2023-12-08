@@ -142,16 +142,16 @@ Bayu
 Table 1. Penjelasan Tiap Section Code Dari No 1
 <div align="center">
 
+
 | Code                        | Penjelasan                                                                                                                                                                                                                          |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `b = 1`                     | Inisialisasi variabel `b` dengan nilai awal 1. Variabel ini akan digunakan untuk mengontrol perulangan `while`.                                                                                                                    |
-| `while b <= 100:`           | Statement `while` yang akan menjalankan blok kode di dalamnya selama kondisi `b <= 100` benar (True). Dengan kata lain, perulangan akan berlanjut selama nilai `b` kurang dari atau sama dengan 100.                               |
+| `b = 1`                     | Inisialisasi variabel `b` dengan nilai awal 1. Variabel ini digunakan sebagai pengontrol perulangan `while`.                                                                                                                    |
+| `while b <= 100:`           | Pernyataan `while` yang menjalankan blok kode di dalamnya selama kondisi `b <= 100` benar (True). Perulangan akan berlanjut selama nilai `b` kurang dari atau sama dengan 100.                               |
 | `  if b % 10 == 0:`         | Blok `if`. Jika nilai `b` merupakan kelipatan 10 (diperiksa menggunakan `b % 10 == 0`), maka program akan mencetak string "Bayu" tiga kali dengan menggunakan `\n` untuk mencetak baris baru setelah setiap "Bayu".               |
-| `    print("Bayu \nBayu \nBayu")` |                                                                                                                                                                                                                                     |
-| `  else:`                   |                                                                                                                                                                                                                                     |
-| `    print(b)`              | Blok `else` yang terkait dengan blok `if`. Jika kondisi pada `if` tidak terpenuhi (nilai `b` bukan kelipatan 10), maka program akan mencetak nilai `b`.                                                                           |
-| `b += 1`                    | Bagian yang menginkremen `b` dengan 1 setiap kali iterasi perulangan selesai. Hal ini penting untuk mencegah terjadinya perulangan tak terbatas (infinite loop) dan memastikan bahwa suatu saat kondisi `while` tidak terpenuhi sehingga perulangan berhenti. |
-
+| `    print("Bayu \nBayu \nBayu")` | Mencetak string "Bayu" tiga kali jika nilai `b` adalah kelipatan 10.                                                                                                                                                                  |
+| `  else:`                   | Blok `else` yang terkait dengan blok `if`. Jika kondisi pada `if` tidak terpenuhi (nilai `b` bukan kelipatan 10), maka program akan mencetak nilai `b`.                                                                           |
+| `    print(b)`              | Mencetak nilai `b` jika nilai `b` bukan kelipatan 10.                                                                                                                                                                              |
+| `b += 1`                    | Menginkremen `b` dengan 1 setiap kali iterasi perulangan selesai. Penting untuk mencegah perulangan tak terbatas (infinite loop) dan memastikan bahwa suatu saat kondisi `while` tidak terpenuhi sehingga perulangan berhenti.   |
 
 </div>
 
