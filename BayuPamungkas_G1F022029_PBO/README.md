@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.facebook.com/profile.php?id=100030246067484"><img src="https://img.shields.io/badge/Facebook-Follow%20Me-blue?style=flat&logo=facebook" alt="Facebook"></a>
-<a href="https://www.instagram.com/bayu_pamungkas031/"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=flat&logo=instagram" alt="Instagram"></a>
+<a href="https://instagram.com/bayu_pamungkas031?igshid=NzZlODBkYWE4Ng=="><img src="https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=flat&logo=instagram" alt="Instagram"></a>
 
 </div>
 
