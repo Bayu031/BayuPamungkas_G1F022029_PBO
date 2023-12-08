@@ -1,8 +1,7 @@
 <div align="center">
 
-<a href="https://www.instagram.com/bayu_pamungkas031/"><img src="https://png.pngtree.com/element_our/md/20180626/md_5b321ca31d522.png" alt="Instagram" width="50" height="50"></a>
-<a href="https://www.facebook.com/profile.php?id=100030246067484"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/768px-Facebook_f_logo_%282019%29.svg.png" alt="Facebook" width="50" height="50"></a>
-
+<a href="https://www.facebook.com/profile.php?id=100030246067484"><img src="https://img.shields.io/badge/Facebook-Follow%20Me-blue?style=flat&logo=facebook" alt="Facebook"></a>
+<a href="https://www.instagram.com/bayu_pamungkas031/"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=flat&logo=instagram" alt="Instagram"></a>
 
 </div>
 
