@@ -255,6 +255,9 @@ Table 3. Penjelasan Tiap Section Code While Loops
 
 </div>
 
+
+Table 4. Penjelasan Tiap Section Code perulangan for menggunakan tipe data array
+
 <div align="center">
 
 | Code                       | Penjelasan                                                                                      |
